@@ -52,9 +52,9 @@ Microservices-based payment processing with fraud detection using Kafka
 
 ## 📫 How to Reach Me
 
-- 🌐 Portfolio: [dev.to/khadijah](https://dev.to/khadijah)
+- 🌐 Portfolio: https://leetcode.com/u/khadijah2022/
 - 💼 LinkedIn: [in/dana-khadijah-8aa7a939a](https://linkedin.com/in/dana-khadijah-8aa7a939a)
-- 📍 Location: Нейпервилл, Иллинойс, США
+- 📍 Location: San Francisco, CA, США
 
 ## 🤝 Open to Collaboration
 
